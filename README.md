@@ -1,1 +1,0 @@
-# esercitazione.angular.2

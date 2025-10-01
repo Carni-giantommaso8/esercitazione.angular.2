@@ -1,0 +1,11 @@
+1. npm install -g @angular/cli
+2. È la pagina principale dell'app, carica gli script e gli stili, e contiene il tag <app-root> (il segnaposto dove l'app Angular viene iniettata).
+3. L'app-root è un componente definito dalla nostra applicazione Angular.
+4.$ cd angular-hello-world
+  $ ng serve --disable-host-check
+  ** NG Live Development Server is running on http://localhost:4200. **
+  // ...
+  // a bunch of other messages
+  // ...
+  Compiled successfully.
+
